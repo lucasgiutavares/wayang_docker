@@ -1,0 +1,1 @@
+docker build -t wayang_container:%1% .
